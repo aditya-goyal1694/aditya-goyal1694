@@ -1,0 +1,7 @@
+- 👋 Hi, Its @py-Aditya-cpp here.
+- 👨‍🎓 I'm Aditya Goyal
+- 👀 I’m interested in any coding related projects, hackathons, etc.
+- 💻 I've keen knowledge of Python and mysql.
+- 🌱 I’m currently learning C++, html, CSS, Javascript!
+- 💞️ I'm looking to collaborate on any projects based on above said languages.
+- 📫 Reach me at adityamr.1694@gmail.com
