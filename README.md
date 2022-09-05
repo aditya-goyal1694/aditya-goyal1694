@@ -1,4 +1,4 @@
-- 👋 Hi, Its @py-Aditya-cpp here.
+- 👋 Hi, Its @py-Aditya-cpp
 - 👨‍🎓 I'm Aditya Goyal
 - 👀 I’m interested in any coding related projects, hackathons, etc.
 - 💻 I've keen knowledge of Python and mysql.
