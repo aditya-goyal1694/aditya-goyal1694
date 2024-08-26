@@ -1,6 +1,6 @@
 - 👋 Hi, Its @py-Aditya-cpp
 - 👨‍🎓 I'm Aditya Goyal
-- 👀 I’m interested in any coding related projects, hackathons, etc.
-- 💻 I've intermediate knowledge of python, C, html, CSS, javascript, mysql and PL/SQL.
-- 🌱 I’m currently learning C++, DSA with cpp.
-- 💞️ I'm looking to collaborate on any projects based on above said languages.
+- 👀 I’m interested in data science projects and hackathons.
+- 💻 I've sound knowledge of python, C++, R and mysql.
+- 🌱 I’m currently diving deep in the world of Data Science and Devops.
+- 💞️ I'm looking to collaborate on any projects on data analysis.
