@@ -1,4 +1,4 @@
-- 👋 Hi, Its @py-Aditya-cpp
+- 👋 Hi, Its @aditya-goyal1694
 - 👨‍🎓 I'm Aditya Goyal
 - 👀 I’m interested in data science projects and hackathons.
 - 💻 I've sound knowledge of python, C++, R and mysql.
