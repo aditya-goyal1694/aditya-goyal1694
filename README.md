@@ -1,5 +1,5 @@
 - 👋 Hi, Its @aditya-goyal1694
 - 👨‍🎓 I'm Aditya Goyal
-- 💻 I'm proficient in python, C++, R and mysql.
+- 💻 I'm proficient in python, C++ and mysql.
 - 🌱 I’m currently diving deep in the world of Software Development and Devops.
 - 💞️ I'm looking to collaborate on any projects on web dev.
