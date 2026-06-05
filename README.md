@@ -1,88 +1,36 @@
-# Hi, I'm Aditya Goyal
+# Hey, I'm Aditya 👋
 
-Backend Software Engineer with experience building scalable microservices, distributed systems, and developer tooling. I enjoy solving complex engineering problems involving databases, system design, performance optimization, and cloud infrastructure.
+Backend systems engineer passionate about **scalable infrastructure** and **database performance optimization**. Currently building production systems at **Omniful** handling 450+ APIs.
 
-## About Me
+## 🎯 What I Do
 
-* B.Tech in Computer Science Engineering from Lovely Professional University (GPA: 9.0)
-* Backend-focused engineer with experience in Go, PostgreSQL, Redis, Kafka, and AWS
-* Completed a 1-year Software Development Engineer internship at Omniful
-* Interested in distributed systems, database internals, system design, and backend architecture
-* Actively building projects that solve real engineering problems
+- Build distributed systems that scale
+- Optimize databases to blazing-fast speeds
+- Debug production issues under pressure
+- Design robust backend architectures
 
-## Technical Skills
+## 🚀 Recent Wins
 
-### Languages
+**QueryScope** — A zero-code-change Go tool that catches N+1 queries & missing indexes before they wreck production. Designed an async distributed architecture keeping analysis off the request path.
 
-* Go
-* C++
-* Python
-* SQL
-* TypeScript
+**WMS Access Control** — Architected hub and seller-level RBAC governing 450+ APIs with zero-downtime rollouts.
 
-### Backend & Infrastructure
+**Performance Wins** — Optimized 20+ APIs by 35-40%, reduced database load by 30%, cut inventory processing time by 50%.
 
-* PostgreSQL
-* Redis
-* Kafka
-* REST APIs
-* Microservices
-* Docker
-* AWS
+## 💻 Tech Stack
 
-### Engineering Practices
+```
+Languages:  Go | C++ | Python
+Databases:  PostgreSQL | Redis | MySQL
+Tools:      Kafka | AWS | Docker | New Relic
+```
 
-* System Design
-* Performance Optimization
-* Database Design
-* Observability & Monitoring
-* Production Debugging
+## 🔗 Let's Connect
 
-## Professional Highlights
+- 💼 [LinkedIn](https://linkedin.com/in/aditya-goyal18)
+- 🌐 [Portfolio](https://port-folio-two-flame.vercel.app/)
+- 📧 adityamr.1694@gmail.com
 
-* Built a hub and seller level access control system governing 450+ APIs using rule-based authorization and feature flags
-* Refactored role and permission management using pricing-plan and feature-based RBAC
-* Reduced inventory upload processing time by 50% while eliminating memory issues
-* Optimized multiple APIs and PostgreSQL queries, reducing execution time by up to 40%
-* Built Kafka-based inventory audit logging infrastructure for compliance and reporting
-* Migrated critical functionality into dedicated microservices, improving latency and maintainability
+---
 
-## Featured Projects
-
-### QueryScope
-
-A distributed database query analysis platform that intercepts PostgreSQL traffic and identifies:
-
-* N+1 query patterns
-* Missing indexes
-* Sequential scans
-* Expensive joins
-* Query performance bottlenecks
-
-Tech Stack:
-Go, Kafka, PostgreSQL, Redis, TypeScript, Docker
-
-### Foodie Fiesta
-
-A food ordering platform with chatbot integration.
-
-Tech Stack:
-React, Tailwind CSS, FastAPI, MySQL, Dialogflow, Docker
-
-### customSTL
-
-A custom implementation of common C++ STL containers and algorithms built for learning low-level data structure design and implementation details.
-
-## Current Focus
-
-* Backend Engineering
-* Distributed Systems
-* System Design
-* Database Performance
-* Go Ecosystem
-
-## Connect
-
-* LinkedIn: Add your LinkedIn URL
-* Portfolio: Add your portfolio URL
-* Email: Add your preferred contact email
+⚡ Always shipping. Always optimizing.
